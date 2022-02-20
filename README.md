@@ -42,4 +42,4 @@ Output
 
 
 ## License
-> MIT [license] 2021 Brian Kiplangat 
+> MIT [license] 2021 Brian Kiplangat Kirui
