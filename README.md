@@ -12,7 +12,7 @@
 
  
 
- >1. `` git clone git remote add origin https://github.com/stephenndele/password-locker``
+ >1. `` git clone git remote add origin https://github.com/briankiplangat88/password-locker``
 >2. ``cd IP_ONE_PY``
 >3. To run this app,  use  ``` python3.8 run.py ```
 >4. To run test use ``` python3.8 user_test.py ```
