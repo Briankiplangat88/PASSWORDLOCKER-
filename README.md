@@ -21,7 +21,7 @@
 
 
 ## Technologies used
-* Python3.8
+* Python3.9
 
 
 Behaviour
@@ -37,7 +37,7 @@ Output
 ## Running the Application
 * To run the application, in your terminal:
 
-        $ python3.8 run.py      
+        $ python3.9 run.py      
 
 
 
