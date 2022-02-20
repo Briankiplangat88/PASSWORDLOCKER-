@@ -5,7 +5,7 @@
 
 ### Setup
 > Install these first:
-* Python3.8
+* Python3.9
 * pip
 * pyperclip
 * xclip
