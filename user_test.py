@@ -1,13 +1,3 @@
-# from collections import UserList, UserString
-# from operator import truediv
-# import random
-# import re
-# from site import USER_BASE
-# import string
-# from typing_extensions import Self
-
-# from click import UsageError
-
 
 import unittest
 from user import User
