@@ -1,5 +1,5 @@
 # Password Locker
-### by :Brian Kiplangat K
+### by :Brian Kiplangat KI
 
 #### To clone project to your local computer and run it follow the following instructions.
 
